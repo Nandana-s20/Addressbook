@@ -5,6 +5,7 @@ This project is a simple Address Book implemented in C.
 ## Features
 - Add Contact
 - Search Contact
+- Display Contact
 - Delete Contact
 - Modify Contact
 
